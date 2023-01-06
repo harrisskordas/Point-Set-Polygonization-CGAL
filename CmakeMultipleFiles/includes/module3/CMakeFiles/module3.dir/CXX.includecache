@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/users/sdi1800217/Code/Project/ass1/take7/includes/module3/module3.cpp
+module3.hpp
+/home/users/sdi1800217/Code/Project/ass1/take7/includes/module3/module3.hpp
+
+/home/users/sdi1800217/Code/Project/ass1/take7/includes/module3/module3.hpp
+CGAL/Exact_predicates_inexact_constructions_kernel.h
+-
+CGAL/Polygon_2.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/X11/c++     CMakeFiles/to_polygon.dir/main.cpp.o  -o to_polygon  includes/module1/libutils.a includes/module2/libmodule2.a includes/module3/libmodule3.a /usr/lib/x86_64-linux-gnu/libgmpxx.so /usr/lib/x86_64-linux-gnu/libmpfr.so /usr/lib/x86_64-linux-gnu/libgmp.so -pthread 

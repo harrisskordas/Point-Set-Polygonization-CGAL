@@ -1,0 +1,2 @@
+/usr/bin/X11/ar qc libmodule2.a  CMakeFiles/module2.dir/module2.cpp.o
+/usr/bin/X11/ranlib libmodule2.a
