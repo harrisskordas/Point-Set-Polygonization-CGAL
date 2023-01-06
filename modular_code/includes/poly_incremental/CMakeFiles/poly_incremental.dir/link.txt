@@ -1,0 +1,2 @@
+/usr/bin/X11/ar qc libpoly_incremental.a  CMakeFiles/poly_incremental.dir/poly_incremental.cpp.o
+/usr/bin/X11/ranlib libpoly_incremental.a

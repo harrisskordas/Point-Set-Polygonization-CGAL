@@ -1,0 +1,2 @@
+/usr/bin/X11/ar qc libpoly_line_algorithms.a  CMakeFiles/poly_line_algorithms.dir/poly_line_algorithms.cpp.o
+/usr/bin/X11/ranlib libpoly_line_algorithms.a
