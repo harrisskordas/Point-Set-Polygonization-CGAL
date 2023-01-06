@@ -1,0 +1,2 @@
+/usr/bin/X11/ar qc libcgal_config.a  CMakeFiles/cgal_config.dir/cgal_config.cpp.o
+/usr/bin/X11/ranlib libcgal_config.a
