@@ -1,0 +1,1 @@
+add_library(opt_local_search opt_local_search.cpp)
