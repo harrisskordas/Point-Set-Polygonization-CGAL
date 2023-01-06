@@ -1,0 +1,2 @@
+/usr/bin/X11/ar qc libpoly_onion.a  CMakeFiles/poly_onion.dir/poly_onion.cpp.o
+/usr/bin/X11/ranlib libpoly_onion.a

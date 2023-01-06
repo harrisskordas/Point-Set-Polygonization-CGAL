@@ -1,0 +1,2 @@
+/usr/bin/X11/ar qc libvisibility.a  CMakeFiles/visibility.dir/visibility.cpp.o
+/usr/bin/X11/ranlib libvisibility.a
