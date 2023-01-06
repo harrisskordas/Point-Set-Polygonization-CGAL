@@ -1,0 +1,3 @@
+/home/users/sdi1800217/Code/Project/ass1/take4/CMakeFiles/rebuild_cache.dir
+/home/users/sdi1800217/Code/Project/ass1/take4/CMakeFiles/edit_cache.dir
+/home/users/sdi1800217/Code/Project/ass1/take4/CMakeFiles/out.exe.dir
