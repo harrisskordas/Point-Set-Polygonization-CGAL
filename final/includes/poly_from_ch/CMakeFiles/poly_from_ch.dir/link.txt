@@ -1,0 +1,2 @@
+/usr/bin/X11/ar qc libpoly_from_ch.a  CMakeFiles/poly_from_ch.dir/poly_from_ch.cpp.o
+/usr/bin/X11/ranlib libpoly_from_ch.a

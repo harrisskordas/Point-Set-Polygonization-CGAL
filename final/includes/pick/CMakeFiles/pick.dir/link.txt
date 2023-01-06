@@ -1,0 +1,2 @@
+/usr/bin/X11/ar qc libpick.a  CMakeFiles/pick.dir/pick.cpp.o
+/usr/bin/X11/ranlib libpick.a
