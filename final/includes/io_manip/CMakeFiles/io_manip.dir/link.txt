@@ -1,0 +1,2 @@
+/usr/bin/X11/ar qc libio_manip.a  CMakeFiles/io_manip.dir/io_manip.cpp.o
+/usr/bin/X11/ranlib libio_manip.a
