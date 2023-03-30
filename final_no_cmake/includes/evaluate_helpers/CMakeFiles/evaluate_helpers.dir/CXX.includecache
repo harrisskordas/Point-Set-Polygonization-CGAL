@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/users/sdi1800217/Code/Project/ass3/includes/evaluate_helpers/evaluate.cpp
+evaluate.hpp
+/home/users/sdi1800217/Code/Project/ass3/includes/evaluate_helpers/evaluate.hpp
+
+/home/users/sdi1800217/Code/Project/ass3/includes/evaluate_helpers/evaluate.hpp
+iostream
+-
+vector
+-
+dirent.h
+-
+cstring
+-
+unordered_map
+-
+algorithm
+-
+fstream
+-
+iomanip
+-
+unistd.h
+-
+sys/wait.h
+-
+

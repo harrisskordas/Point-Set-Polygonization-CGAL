@@ -1,0 +1,2 @@
+/usr/bin/X11/ar qc libevaluate_helpers.a  CMakeFiles/evaluate_helpers.dir/evaluate.cpp.o
+/usr/bin/X11/ranlib libevaluate_helpers.a
