@@ -1,1 +1,0 @@
-add_library(poly_incremental poly_incremental.cpp)
